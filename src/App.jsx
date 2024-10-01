@@ -1,11 +1,11 @@
 import './App.css'
-import ToDoList from './components/ToDoList'
+import Comment from './components/Comment'
 
 function App() {
 
   return (
     <>
-      <ToDoList/>
+      <Comment />
     </>
   )
 }
